@@ -42,7 +42,7 @@
 | <!-- Enlace de sorozcov --> | | |
 | <!-- Enlace de jlortega00 --> | | |
 | [Xileon310](https://github.com/Xileon310/GoParty/pull/36) | 0.0.9 | |
-| https://github.com/Parka015/SerieMotion-IV/pull/21 | 0.0.9 | |
+| https://github.com/Parka015/SerieMotion-IV/pull/21 | 0.0.8 | |
 | <!-- Enlace de edusegrich --> | | |
 | <!-- Enlace de LuisSS20 --> | | |
 | <!-- Enlace de juanfran00 --> | | |
@@ -51,5 +51,5 @@
 | https://github.com/paula1999/Tune-in/pull/20 | 0.0.9 | ✓ |
 | <!-- Enlace de xCyal --> | | |
 | <!-- Enlace de vlljuan99 --> | | |
-| https://github.com/JAntonioVR/IV-2021-2022/pull/35 | 0.0.9 |✓ |
+| https://github.com/JAntonioVR/IV-2021-2022/pull/35 | 0.0.8 |✓ |
 | <!-- Enlace de pablozafra97 --> | | |
