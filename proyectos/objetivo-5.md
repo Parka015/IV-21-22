@@ -42,7 +42,7 @@
 | <!-- Enlace de sorozcov --> | | |
 | <!-- Enlace de jlortega00 --> | | |
 | [Xileon310](https://github.com/Xileon310/GoParty/pull/36) | 0.0.9 | |
-| https://github.com/Parka015/SerieMotion-IV/pull/21 | 0.0.10 | |
+| https://github.com/Parka015/SerieMotion-IV/pull/21 | 0.0.9 | |
 | <!-- Enlace de edusegrich --> | | |
 | <!-- Enlace de LuisSS20 --> | | |
 | <!-- Enlace de juanfran00 --> | | |
